@@ -92,7 +92,7 @@ JavaScript is the only browser technology that combines these three things.
 
 That's what makes JavaScript unique. That's why it's the most widespread tool for creating browser interfaces.
 
-That said, JavaScript also allows to create servers, mobile applications, etc.
+That said, JavaScript also allows developers to create servers, mobile applications, etc.
 
 ## Languages "over" JavaScript
 
